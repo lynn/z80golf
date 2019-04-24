@@ -1,6 +1,8 @@
 # Z80Golf
 
-This is a mirror of mokehehe's Z80 code golf machine, which I've documented on [esolangs](https://esolangs.org/wiki/Z80golf). Here is a translation of `README.txt`:
+This is a mirror of mokehehe's Z80 code golf machine, which I've [**documented here**](https://esolangs.org/wiki/Z80golf).
+
+Here is a translation of `README.txt`:
 
 > ## Z80Golf Environment
 >
